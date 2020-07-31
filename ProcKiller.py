@@ -1,4 +1,4 @@
-# Import the required module to handle Windows API Calls
+## Import the required module to handle Windows API Calls
 import ctypes
 
 # Grab a handle to kernel32.dll & USer32.dll
